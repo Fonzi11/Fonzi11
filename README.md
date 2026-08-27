@@ -80,18 +80,3 @@ I am a dual-degree undergraduate student in **Mechatronics Engineering and Bioen
 
 ---
 
-### 📊 GitHub Stats & Contributions
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Fonzi11&show_icons=true&theme=radical" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Fonzi11&theme=radical" alt="GitHub Streak" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fonzi11&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
-<!-- Animación de la Serpiente de Contribuciones -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Fonzi11/Fonzi11/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
-</p>

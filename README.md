@@ -126,9 +126,19 @@ off_duty:    Boom Bap beats, FL Studio, web design, JavaScript games
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Fonzi11&show_icons=true&hide_border=true&bg_color=0d0221&title_color=05d9e8&icon_color=ff2a6d&text_color=e8e2ff&ring_color=f9f002" alt="GitHub statistics"/>
+  <!-- GitHub Statistics -->
+  <img
+    height="170"
+    src="https://github-readme-stats.vercel.app/api?username=Fonzi11&show_icons=true&hide_border=true&bg_color=0d0221&title_color=05d9e8&icon_color=ff2a6d&text_color=e8e2ff&ring_color=f9f002&cache_seconds=86400"
+    alt="GitHub statistics"
+  />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fonzi11&layout=compact&hide_border=true&bg_color=0d0221&title_color=05d9e8&text_color=e8e2ff" alt="Top languages"/>
+  <!-- Top Languages -->
+  <img
+    height="170"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fonzi11&layout=compact&hide_border=true&bg_color=0d0221&title_color=05d9e8&text_color=e8e2ff&cache_seconds=86400"
+    alt="Top languages"
+  />
 
 </div>
 
@@ -136,15 +146,13 @@ off_duty:    Boom Bap beats, FL Studio, web design, JavaScript games
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Fonzi11&hide_border=true&background=0d0221&ring=05d9e8&fire=ff2a6d&currStreakLabel=f9f002&sideLabels=e8e2ff&dates=e8e2ff&currStreakNum=e8e2ff&sideNums=e8e2ff" alt="GitHub streak"/>
+  <!-- GitHub Streak -->
+  <img
+    height="170"
+    src="https://streak-stats.demolab.com/?user=Fonzi11&hide_border=true&background=0d0221&ring=05d9e8&fire=ff2a6d&currStreakLabel=f9f002&sideLabels=e8e2ff&dates=e8e2ff&currStreakNum=e8e2ff&sideNums=e8e2ff"
+    alt="GitHub contribution streak"
+  />
 
 </div>
 
 <img src="divider.svg" width="100%" alt=""/>
-
-<div align="center">
-
-`> connection open. transmit when ready.`
-
-</div>
-

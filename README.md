@@ -9,7 +9,7 @@
 <br/>
 
 <img src="https://komarev.com/ghpvc/?username=Fonzi11&label=VISITORS&color=ff2a6d&style=for-the-badge" alt="Profile views"/>
-<a href="https://www.linkedin.com/in/ismael-fonseca-709750286/"><img src="https://img.shields.io/badge/LinkedIn-0d0221?style=for-the-badge&logo=linkedin&logoColor=05d9e8&labelColor=0d0221&color=05d9e8" alt="LinkedIn"/></a>
+<a href="https://www.linkedin.com/in/ismael-fonseca-cepeda11/"><img src="https://img.shields.io/badge/LinkedIn-0d0221?style=for-the-badge&logo=linkedin&logoColor=05d9e8&labelColor=0d0221&color=05d9e8" alt="LinkedIn"/></a>
 <a href="mailto:TU_CORREO@email.com"><img src="https://img.shields.io/badge/Email-0d0221?style=for-the-badge&logo=gmail&logoColor=ff2a6d&labelColor=0d0221&color=ff2a6d" alt="Email"/></a>
 <a href="https://github.com/Fonzi11"><img src="https://img.shields.io/badge/GitHub-0d0221?style=for-the-badge&logo=github&logoColor=f9f002&labelColor=0d0221&color=f9f002" alt="GitHub"/></a>
 

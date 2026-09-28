@@ -1,82 +1,113 @@
-<h1 align="center">Hi 👋, I'm Ismael Fonseca Cepeda</h1>
-<!-- Animación de escritura para tus títulos -->
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Mechatronics+%26+Bioengineering;Embedded+Systems+%26+IoT;Biomedical+Instrumentation;PCB+Design+%26+App+Development" alt="Typing SVG" />
-  </a>
+<div align="center">
+
+<img src="assets/banner.svg" alt="Ismael Fonseca - Mechatronics x Bioengineering" width="100%"/>
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1200&color=05D9E8&center=true&vCenter=true&width=720&height=40&lines=%3E+boot+sequence+initialized...;%3E+Mechatronics+%26+Bioengineering;%3E+Embedded+Systems+%26+IoMT;%3E+Biomedical+Instrumentation;%3E+AR-Assisted+Neurosurgery;%3E+PCB+Design+%26+Android+Apps" alt="Typing SVG" />
+</a>
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=Fonzi11&label=VISITORS&color=ff2a6d&style=for-the-badge" alt="Profile views"/>
+<a href="https://www.linkedin.com/in/ismael-fonseca-709750286/"><img src="https://img.shields.io/badge/LinkedIn-0d0221?style=for-the-badge&logo=linkedin&logoColor=05d9e8&labelColor=0d0221&color=05d9e8" alt="LinkedIn"/></a>
+<a href="mailto:TU_CORREO@email.com"><img src="https://img.shields.io/badge/Email-0d0221?style=for-the-badge&logo=gmail&logoColor=ff2a6d&labelColor=0d0221&color=ff2a6d" alt="Email"/></a>
+<a href="https://github.com/Fonzi11"><img src="https://img.shields.io/badge/GitHub-0d0221?style=for-the-badge&logo=github&logoColor=f9f002&labelColor=0d0221&color=f9f002" alt="GitHub"/></a>
+
+<img src="assets/divider.svg" width="100%" alt=""/>
+
+</div>
+
+<table>
+<tr>
+<td width="42%" align="center" valign="top">
+  <img src="assets/avatar.svg" alt="Pixel art portrait of Ismael Fonseca" width="100%"/>
+</td>
+<td width="58%" valign="top">
+
+### `> whoami`
+
+I am a dual-degree undergraduate student in **Mechatronics Engineering and Bioengineering** at **Pontificia Universidad Javeriana** (Bogotá, Colombia). My work bridges hardware and healthcare: tangible, technology-driven solutions for complex biomedical and engineering challenges.
+
+### `> status --current`
+
+```yaml
+thesis:      AR-Assisted Neurosurgery
+stack:       HoloLens, Unity, Arun-Kabsch, ICP, CPD
+deep_dive:   IoMT, PCB layout, mobile apps for hardware
+shipped:     SpineTrack, Appsaludarte
+off_duty:    Boom Bap beats (FL Studio), web design, JS games
+```
+
+</td>
+</tr>
+</table>
+
+<img src="assets/divider.svg" width="100%" alt=""/>
+
+## `[ 01 ]` TECH STACK
+
+**Languages**
+
+<p>
+  <img src="https://img.shields.io/badge/C-0d0221?style=for-the-badge&logo=c&logoColor=05d9e8" />
+  <img src="https://img.shields.io/badge/C%2B%2B-0d0221?style=for-the-badge&logo=c%2B%2B&logoColor=05d9e8" />
+  <img src="https://img.shields.io/badge/C%23-0d0221?style=for-the-badge&logo=c-sharp&logoColor=05d9e8" />
+  <img src="https://img.shields.io/badge/Kotlin-0d0221?style=for-the-badge&logo=kotlin&logoColor=05d9e8" />
+  <img src="https://img.shields.io/badge/Python-0d0221?style=for-the-badge&logo=python&logoColor=05d9e8" />
+  <img src="https://img.shields.io/badge/JavaScript-0d0221?style=for-the-badge&logo=javascript&logoColor=05d9e8" />
+  <img src="https://img.shields.io/badge/HTML5-0d0221?style=for-the-badge&logo=html5&logoColor=05d9e8" />
+  <img src="https://img.shields.io/badge/CSS3-0d0221?style=for-the-badge&logo=css3&logoColor=05d9e8" />
+  <img src="https://img.shields.io/badge/MATLAB-0d0221?style=for-the-badge&logo=mathworks&logoColor=05d9e8" />
+  <img src="https://img.shields.io/badge/LaTeX-0d0221?style=for-the-badge&logo=latex&logoColor=05d9e8" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Fonzi11&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+**Hardware and embedded systems**
+
+<p>
+  <img src="https://img.shields.io/badge/Altium_Designer-0d0221?style=for-the-badge&logo=altiumdesigner&logoColor=ff2a6d" />
+  <img src="https://img.shields.io/badge/ESP32-0d0221?style=for-the-badge&logo=espressif&logoColor=ff2a6d" />
+  <img src="https://img.shields.io/badge/Raspberry_Pi-0d0221?style=for-the-badge&logo=raspberry-pi&logoColor=ff2a6d" />
+  <img src="https://img.shields.io/badge/Arduino-0d0221?style=for-the-badge&logo=arduino&logoColor=ff2a6d" />
+  <img src="https://img.shields.io/badge/Microchip_PIC-0d0221?style=for-the-badge&logo=microchip&logoColor=ff2a6d" />
 </p>
 
-<!-- Badges Sociales Interactivos -->
-<p align="center">
-  <a href="mailto:TU_CORREO@email.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://www.linkedin.com/in/TU_LINKEDIN_AQUI/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
+**Software, cloud and simulation**
+
+<p>
+  <img src="https://img.shields.io/badge/VS_Code-0d0221?style=for-the-badge&logo=visual%20studio%20code&logoColor=f9f002" />
+  <img src="https://img.shields.io/badge/Android_Studio-0d0221?style=for-the-badge&logo=android-studio&logoColor=f9f002" />
+  <img src="https://img.shields.io/badge/Unity-0d0221?style=for-the-badge&logo=unity&logoColor=f9f002" />
+  <img src="https://img.shields.io/badge/Firebase-0d0221?style=for-the-badge&logo=firebase&logoColor=f9f002" />
+  <img src="https://img.shields.io/badge/MQTT-0d0221?style=for-the-badge&logo=mqtt&logoColor=f9f002" />
+  <img src="https://img.shields.io/badge/InfluxDB-0d0221?style=for-the-badge&logo=influxdb&logoColor=f9f002" />
+  <img src="https://img.shields.io/badge/FL_Studio-0d0221?style=for-the-badge&logo=fl-studio&logoColor=f9f002" />
 </p>
 
----
+<img src="assets/divider.svg" width="100%" alt=""/>
 
-### 👨‍💻 About Me
+## `[ 02 ]` FEATURED MISSIONS
 
-I am a dual-degree undergraduate student in **Mechatronics Engineering and Bioengineering** at Pontificia Universidad Javeriana in Bogotá. My work bridges the gap between hardware and healthcare, focusing on creating tangible, technology-driven solutions for complex biomedical and engineering challenges.
+| Mission | Description | Stack |
+|:--|:--|:--|
+| **SpineTrack** | Full-stack IoT wearable for posture monitoring. ESP32 and MPU6050 sensing, Raspberry Pi gateway, MQTT messaging over HiveMQ, and a companion Android app built with MVVM. | `ESP32` `MPU6050` `Raspberry Pi` `MQTT` `Kotlin` |
+| **AR-Assisted Neurosurgery** *(ongoing thesis)* | Augmented reality for surgical environments, with high-accuracy tracking through registration algorithms (Arun-Kabsch, ICP, CPD). | `HoloLens` `Unity` `C#` |
+| **Appsaludarte** | Social project: an emergency panic button system with a dedicated Android application. | `ESP32` `Android` `Kotlin` |
+| **Flexible Manufacturing Systems** | Discrete-event simulation with FlexSim and SimPy, plus a beverage bottling line with UR3e cobots, Festo Robotino AGVs, and Siemens S7-1200 PLCs. | `FlexSim` `SimPy` `PLC` |
+| **Piezoelectric Energy Harvesting** | Electromechanical system with PVDF flexible sensors, a Cockcroft-Walton voltage doubler, and a boost converter. | `PVDF` `Analog` `Power electronics` |
 
-- 🔭 **Currently working on:** My interdisciplinary thesis focused on **Augmented Reality-Assisted Neurosurgery** using HoloLens, Unity, and advanced registration algorithms (Arun-Kabsch, ICP).
-- 🌱 **Deep diving into:** Internet of Medical Things (IoMT), PCB layout design, and mobile app development for hardware integration.
-- ⚙️ **Recent Highlights:** Developed **SpineTrack**, a complete IoT wearable posture monitoring system (ESP32, MQTT, Kotlin/MVVM), and **Appsaludarte**, a social project featuring an emergency panic button system and Android application.
-- 🎵 **Beyond Engineering:** When I'm not writing code or designing circuits, I produce Boom Bap beats in FL Studio and experiment with web design and JavaScript game development.
+<img src="assets/divider.svg" width="100%" alt=""/>
 
----
+## `[ 03 ]` TELEMETRY
 
-### 🛠️ Tech Stack & Skills
+<div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Fonzi11&show_icons=true&hide_border=true&bg_color=0d0221&title_color=05d9e8&icon_color=ff2a6d&text_color=e8e2ff&ring_color=f9f002" alt="GitHub stats"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fonzi11&layout=compact&hide_border=true&bg_color=0d0221&title_color=05d9e8&text_color=e8e2ff" alt="Top languages"/>
+</div>
 
-**Programming Languages**
-<p align="left">
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" />
-  <img src="https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=latex&logoColor=white" />
-</p>
+<img src="assets/divider.svg" width="100%" alt=""/>
 
-**Hardware & Embedded Systems**
-<p align="left">
-  <img src="https://img.shields.io/badge/Altium_Designer-A5915F?style=for-the-badge&logo=altiumdesigner&logoColor=white" />
-  <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" />
-  <img src="https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
-  <img src="https://img.shields.io/badge/Microchip_PIC-DF0023?style=for-the-badge&logo=microchip&logoColor=white" />
-</p>
+<div align="center">
 
-**Software, Cloud & Simulation Tools**
-<p align="left">
-  <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" />
-  <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-  <img src="https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white" />
-  <img src="https://img.shields.io/badge/InfluxDB-22ADF6?style=for-the-badge&logo=influxdb&logoColor=white" />
-  <img src="https://img.shields.io/badge/FL_Studio-FF8C00?style=for-the-badge&logo=fl-studio&logoColor=white" />
-</p>
+`> connection open. transmit when ready.`
 
----
-
-### 🚀 Featured Engineering Projects
-
-*   🩺 **SpineTrack:** Developed a full-stack IoT wearable for posture monitoring. Integrated an ESP32, MPU6050, and Raspberry Pi with MQTT messaging (HiveMQ) and built the companion Android app in Kotlin using MVVM architecture.
-*   🧠 **AR-Assisted Neurosurgery (Ongoing Thesis):** Researching and implementing augmented reality solutions for surgical environments using HoloLens and Unity, applying complex mathematical registration formulations (Arun-Kabsch, ICP, CPD) for high-accuracy tracking.
-*   🏭 **Flexible Manufacturing Systems:** Developed discrete-event simulations using FlexSim and SimPy, and programmed a beverage bottling line featuring UR3e collaborative robots, Festo Robotino AGVs, and Siemens S7-1200 PLCs.
-*   ⚡ **Piezoelectric Energy Harvesting:** Designed an electromechanical system utilizing PVDF flexible sensors, a Cockcroft-Walton voltage doubler, and a boost converter.
-
----
-
+</div>

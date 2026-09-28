@@ -22,7 +22,7 @@
   <img src="https://img.shields.io/badge/GitHub-0d0221?style=for-the-badge&logo=github&logoColor=f9f002&labelColor=0d0221&color=f9f002" alt="GitHub"/>
 </a>
 
-<img src="assets/divider.svg" width="100%" alt=""/>
+<img src="divider.svg" width="100%" alt=""/>
 
 </div>
 
@@ -31,7 +31,7 @@
 
 <td width="42%" align="center" valign="top">
 
-<img src="assets/avatar.svg" alt="Pixel art portrait of Ismael Fonseca" width="100%"/>
+<img src="watermarked_img_18097736944915064036.jpeg" alt="Pixel art portrait of Ismael Fonseca" width="100%"/>
 
 </td>
 
@@ -59,7 +59,7 @@ off_duty:    Boom Bap beats, FL Studio, web design, JavaScript games
 </tr>
 </table>
 
-<img src="assets/divider.svg" width="100%" alt=""/>
+<img src="divider.svg" width="100%" alt=""/>
 
 ## `[ 01 ]` TECH STACK
 

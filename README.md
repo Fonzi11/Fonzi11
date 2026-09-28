@@ -108,7 +108,7 @@ off_duty:    Boom Bap beats, FL Studio, web design, JavaScript games
 
 </p>
 
-<img src="assets/divider.svg" width="100%" alt=""/>
+<img src="divider.svg" width="100%" alt=""/>
 
 ## `[ 02 ]` FEATURED MISSIONS
 
@@ -120,7 +120,7 @@ off_duty:    Boom Bap beats, FL Studio, web design, JavaScript games
 | **Flexible Manufacturing Systems**                                | Discrete-event simulation and physical automation involving a beverage bottling line, UR3e collaborative robots, Festo Robotino AGVs, and Siemens S7-1200 PLCs.                   | `FlexSim` `SimPy` `PLC` `UR3e` `Robotino`        |
 | **Piezoelectric Energy Harvesting**                               | Electromechanical energy-harvesting system using flexible PVDF piezoelectric sensors, a Cockcroft-Walton voltage multiplier, and boost-conversion electronics.                    | `PVDF` `Analog` `Power Electronics`              |
 
-<img src="assets/divider.svg" width="100%" alt=""/>
+<img src="divider.svg" width="100%" alt=""/>
 
 ## `[ 03 ]` TELEMETRY
 
@@ -140,7 +140,7 @@ off_duty:    Boom Bap beats, FL Studio, web design, JavaScript games
 
 </div>
 
-<img src="assets/divider.svg" width="100%" alt=""/>
+<img src="divider.svg" width="100%" alt=""/>
 
 <div align="center">
 

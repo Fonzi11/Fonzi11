@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/banner.svg" alt="Ismael Fonseca - Mechatronics x Bioengineering" width="100%"/>
+<img src="banner.svg" alt="Ismael Fonseca - Mechatronics x Bioengineering" width="100%"/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1200&color=05D9E8&center=true&vCenter=true&width=720&height=40&lines=%3E+boot+sequence+initialized...;%3E+Mechatronics+%26+Bioengineering;%3E+Embedded+Systems+%26+IoMT;%3E+Biomedical+Instrumentation;%3E+AR-Assisted+Neurosurgery;%3E+PCB+Design+%26+Android+Apps" alt="Typing SVG"/>

@@ -31,7 +31,7 @@
 
 <td width="42%" align="center" valign="top">
 
-<img src="watermarked_img_18097736944915064036.jpeg" alt="Pixel art portrait of Ismael Fonseca" width="100%"/>
+<img src="avatar.png" alt="Pixel art portrait of Ismael Fonseca" width="100%"/>
 
 </td>
 

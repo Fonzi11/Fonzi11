@@ -25,11 +25,10 @@
 <!-- <img src="avatar.png" alt="Pixel-art portrait of Ismael Fonseca" width="100%"/> -->
 </td>
 <td width="58%" valign="top">
-`> whoami`
+
 I am a dual-degree undergraduate student in Mechatronics Engineering and Bioengineering at Pontificia Universidad Javeriana (Bogotá, Colombia).
-My work bridges engineering, electronics, software, and healthcare, with a focus on building tangible technology-driven solutions for complex biomedical and mechatronic challenges.
-`> status --current`
-```yaml
+My work bridges engineering, electronics, software, and healthcare, with a focus on building tangible technology-driven solutions for complex biomedical and mechatronic challenges.`
+
 thesis:      Mixed-Reality Neurosurgery
 stack:       HoloLens, Unity, C#, OpenXR, DICOM, 3D registration
 current_build: NEUROHUB + FreeSurfer + Unity MR
@@ -37,7 +36,6 @@ deep_dive:   IoMT, PCB design, embedded systems, biomedical instrumentation
 projects:    SpineTrack, Appsaludarte
 exploring:   AR/VR, computer vision, robotics, connected medical devices
 off_duty:    Boom Bap beats, FL Studio, web design, JavaScript games
-```
 </td>
 </tr>
 </table>

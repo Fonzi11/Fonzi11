@@ -32,6 +32,7 @@ My work bridges engineering, electronics, software, and healthcare, with a focus
 ```yaml
 thesis:      Mixed-Reality Neurosurgery
 stack:       HoloLens, Unity, C#, OpenXR, DICOM, 3D registration
+current_build: NEUROHUB + FreeSurfer + Unity MR
 deep_dive:   IoMT, PCB design, embedded systems, biomedical instrumentation
 projects:    SpineTrack, Appsaludarte
 exploring:   AR/VR, computer vision, robotics, connected medical devices
@@ -79,7 +80,7 @@ Software, Cloud & Simulation
 `[ 02 ]` FEATURED MISSIONS
 Mission	Description	Stack
 SpineTrack	Full-stack IoT wearable for posture monitoring. ESP32 and MPU6050 sensing, Raspberry Pi gateway, MQTT messaging over HiveMQ, and a companion Android application built with MVVM.	`ESP32` `MPU6050` `Raspberry Pi` `MQTT` `Kotlin`
-Mixed-Reality Neurosurgery <br><sub>Ongoing thesis</sub>	Manufacturer-agnostic mixed-reality platform for surgical training and assistance, using pre-segmented 3D anatomical models and gesture-based interaction.	`HoloLens` `OpenXR` `Unity` `C#` `DICOM`
+Mixed-Reality Neurosurgery <br><sub>Ongoing thesis</sub>	Manufacturer-agnostic mixed-reality platform for surgical training and assistance, using DICOM/NIfTI, FreeSurfer ASEG, color-coded anatomical layers, transparent brain surfaces, tumor overlays, and gesture-based interaction.	`HoloLens` `OpenXR` `Unity` `C#` `DICOM` `FreeSurfer`
 Appsaludarte	Social-impact project centered around an emergency panic-button system with a dedicated Android application and embedded hardware.	`ESP32` `Android` `Kotlin`
 Flexible Manufacturing Systems	Discrete-event simulation and physical automation involving a beverage bottling line, UR3e collaborative robots, Festo Robotino AGVs, and Siemens S7-1200 PLCs.	`FlexSim` `SimPy` `PLC` `UR3e` `Robotino`
 Piezoelectric Energy Harvesting	Electromechanical energy-harvesting system using flexible PVDF piezoelectric sensors, a Cockcroft–Walton voltage multiplier, and boost-conversion electronics.	`PVDF` `Analog` `Power Electronics`
